@@ -1,0 +1,92 @@
+2023-04-26 11:13:44,429 root            ERROR    Error reading configuration file: list index out of range
+2023-04-26 12:21:27,545 root            ERROR    Error in check_file(1). Error: [Errno 2] No such file or directory: '1' 
+2023-04-26 12:21:27,545 root            ERROR    Error reading configuration file: Error in check_file(1). Error: [Errno 2] No such file or directory: '1' 
+2023-04-26 12:21:48,683 root            ERROR    Error in main(): could not open port 'COM5': OSError(22, 'Se ha especificado un dispositivo que no existe.', None, 433) 
+2023-04-26 12:30:20,647 root            ERROR    Error in main(): could not open port 'COM5': OSError(22, 'Se ha especificado un dispositivo que no existe.', None, 433) 
+2023-04-26 12:32:58,607 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000548", "chunk": 1}
+2023-04-26 13:42:40,584 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000235", "chunk": 1}
+2023-04-26 13:42:56,600 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000342", "chunk": 1}
+2023-04-26 13:43:04,602 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000314", "chunk": 1}
+2023-04-26 13:43:15,565 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000309", "chunk": 1}
+2023-04-26 13:44:19,581 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000326", "chunk": 1}
+2023-04-26 13:44:45,557 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000390", "chunk": 1}
+2023-04-26 13:51:00,563 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000602", "chunk": 1}
+2023-04-26 13:51:08,586 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000373", "chunk": 1}
+2023-04-26 13:52:00,560 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000169", "chunk": 1}
+2023-04-26 13:52:21,558 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000216", "chunk": 1}
+2023-04-26 13:53:02,583 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000151", "chunk": 1}
+2023-04-26 13:53:21,563 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000366", "chunk": 1}
+2023-04-26 13:53:35,551 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000374", "chunk": 1}
+2023-04-26 13:54:03,588 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000363", "chunk": 1}
+2023-04-26 13:54:10,580 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000578", "chunk": 1}
+2023-04-26 13:54:13,564 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000177", "chunk": 1}
+2023-04-26 13:54:16,588 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000167", "chunk": 1}
+2023-04-26 13:54:19,570 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000219", "chunk": 1}
+2023-04-26 13:54:22,556 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000201", "chunk": 1}
+2023-04-26 13:54:25,563 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000245", "chunk": 1}
+2023-04-26 13:54:28,569 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000106", "chunk": 1}
+2023-04-26 13:54:31,566 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000441", "chunk": 1}
+2023-04-26 13:54:37,562 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000245", "chunk": 1}
+2023-04-26 13:55:08,562 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000105", "chunk": 1}
+2023-04-26 13:55:11,564 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000318", "chunk": 1}
+2023-04-26 13:56:22,562 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000360", "chunk": 1}
+2023-04-26 13:57:07,594 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000197", "chunk": 1}
+2023-04-26 13:57:42,563 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000433", "chunk": 1}
+2023-04-26 13:58:18,579 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000246", "chunk": 1}
+2023-04-26 13:58:55,572 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000264", "chunk": 1}
+2023-04-26 13:59:07,583 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000227", "chunk": 1}
+2023-04-26 14:00:38,561 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000306", "chunk": 1}
+2023-04-26 14:06:33,560 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000447", "chunk": 1}
+2023-04-26 14:46:23,530 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000459", "chunk": 1}
+2023-04-26 15:29:03,142 root            ERROR    Error in main(): could not open port 'COM5': PermissionError(13, 'Acceso denegado.', None, 5) 
+2023-04-26 16:51:51,802 root            ERROR    Error in main(): could not open port 'COM5': PermissionError(13, 'Acceso denegado.', None, 5) 
+2023-04-26 16:51:58,508 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000570", "chunk": 1}
+2023-04-27 22:11:15,531 root            ERROR    Error in main(): can only concatenate str (not "NoneType") to str 
+2023-04-27 22:32:54,093 root            ERROR    Error in main(): can only concatenate str (not "NoneType") to str 
+2023-04-27 22:40:54,106 root            ERROR    Error in main(): can only concatenate str (not "NoneType") to str 
+2023-04-27 22:44:36,995 root            ERROR    Error in main(): can only concatenate str (not "NoneType") to str 
+2023-04-27 22:44:44,327
+root            ERROR    Error in main(): can only concatenate str (not "NoneType") to str
+2023-04-28 11:31:07,268 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000435", "chunk": 1}
+2023-04-28 11:33:13,246 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000204", "chunk": 1}
+2023-04-28 11:33:22,241 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000301", "chunk": 1}
+2023-04-28 11:34:08,251 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000383", "chunk": 1}
+2023-04-28 11:34:23,270 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000465", "chunk": 1}
+2023-04-28 11:34:31,252 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000660", "chunk": 1}
+2023-04-28 11:34:46,262 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000235", "chunk": 1}
+2023-04-28 11:36:12,374 root            ERROR    Error in main(): could not open port 'COM5': PermissionError(13, 'Acceso denegado.', None, 5) 
+2023-04-28 11:42:55,237 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000414", "chunk": 1}
+2023-04-28 11:44:07,263 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000287", "chunk": 1}
+2023-04-28 11:45:15,256 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000346", "chunk": 1}
+2023-04-28 11:54:07,267 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000360", "chunk": 1}
+2023-04-28 11:59:31,264 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000594", "chunk": 1}
+2023-04-28 12:00:16,244 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
+2023-04-28 12:00:16,245 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:00:40,231 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
+2023-04-28 12:00:40,231 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:01:31,245 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
+2023-04-28 12:01:31,245 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:01:42,254 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000645", "chunk": 1}
+2023-04-28 12:01:50,256 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000204", "chunk": 1}
+2023-04-28 12:05:18,227 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
+2023-04-28 12:05:18,227 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:05:37,244 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000365", "chunk": 1}
+2023-04-28 12:05:58,234 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
+2023-04-28 12:05:58,234 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:08:18,245 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000108", "chunk": 1}
+2023-04-28 12:24:34,252 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000311", "chunk": 1}
+2023-04-28 12:31:52,232 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000443", "chunk": 1}
+2023-04-28 12:32:02,227 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000268", "chunk": 1}
+2023-04-28 15:04:14,920 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000379", "chunk": 1}
+2023-04-28 15:10:27,931 root            INFO     "CAYA_FW_1", {"processed": 0, "failed": 4, "total": 4, "time": "0.000178", "chunk": 1}
+2023-04-28 15:12:25,914 root            INFO     "CAYA_FW_1", {"processed": 0, "failed": 4, "total": 4, "time": "0.000119", "chunk": 1}
+2023-04-28 15:12:28,915 root            INFO     "CAYA_FW_1", {"processed": 0, "failed": 4, "total": 4, "time": "0.000154", "chunk": 1}
+2023-04-28 15:12:46,933 root            INFO     "CAYA_FW_1", {"processed": 0, "failed": 4, "total": 4, "time": "0.000042", "chunk": 1}
+2023-04-28 15:13:56,941 root            INFO     "CAYA_FW_1", {"processed": 0, "failed": 4, "total": 4, "time": "0.000159", "chunk": 1}
+2023-04-28 15:14:41,912 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000326", "chunk": 1}
+2023-04-28 15:15:53,936 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000219", "chunk": 1}
+2023-04-28 16:03:57,904 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000499", "chunk": 1}
+2023-04-28 16:12:17,925 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000430", "chunk": 1}
+2023-04-28 16:12:30,919 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000217", "chunk": 1}
+2023-04-28 16:18:45,907 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000227", "chunk": 1}
+2023-04-28 16:53:58,900 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000313", "chunk": 1}
