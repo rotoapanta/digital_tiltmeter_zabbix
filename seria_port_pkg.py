@@ -77,5 +77,4 @@ def get_data_acquisition():
     serial_port.close()  # cierre el puerto inmediatamente.
 
 #print(get_data_acquisition.__doc__)
-help(get_data_acquisition)
-#
+#help(get_data_acquisition)
