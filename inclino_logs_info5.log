@@ -90,3 +90,10 @@ root            ERROR    Error in main(): can only concatenate str (not "NoneTyp
 2023-04-28 16:12:30,919 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000217", "chunk": 1}
 2023-04-28 16:18:45,907 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000227", "chunk": 1}
 2023-04-28 16:53:58,900 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000313", "chunk": 1}
+2023-04-30 14:23:26,744 root            ERROR    Error in main(): module 'serial' has no attribute 'PARITY_ONE' 
+2023-04-30 14:23:53,148 root            ERROR    Error in main(): module 'serial' has no attribute 'PARITY_ONE' 
+2023-04-30 14:28:50,869 root            ERROR    Error in main(): module 'serial' has no attribute 'EIGHBITS' 
+2023-04-30 14:29:28,904 root            ERROR    Error in main(): unexpected keyword arguments: {'baud_rate': 9600} 
+2023-04-30 14:31:35,779 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.1.115', 10051) timed out after10 seconds
+2023-04-30 14:31:35,779 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-30 14:32:09,806 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000379", "chunk": 1}

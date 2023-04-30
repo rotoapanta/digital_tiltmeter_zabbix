@@ -23,6 +23,7 @@ import os
 import sys
 import logging
 
+
 def connect2zabbix(zx_ip, zx_port):
     """
     Try to connect to a ZX server, return
@@ -50,9 +51,18 @@ def detect_serial_port():
 def get_data_acquisition():
     serial_port_connected = detect_serial_port()  # Puerto de lectura o escritura.
     BAUD_RATE = 9600  # Velocidad de transmisión
-    serial_port = serial.Serial(serial_port_connected,
-                                BAUD_RATE,
-                                timeout=1.0)  # Abrir el puerto serial, se establece un tiempo de espera de 1 seg
+    PARITY = serial.PARITY_NONE
+    STOP_BITS = serial.STOPBITS_ONE
+    BYTE_SIZE = serial.EIGHTBITS
+
+    serial_port = serial.Serial(
+        port = serial_port_connected,
+        baudrate = BAUD_RATE,
+        parity = PARITY,
+        stopbits = STOP_BITS,
+        bytesize = BYTE_SIZE,
+        timeout=1.0  # Abrir el puerto serial, se establece un tiempo de espera de 1 seg
+    )
     print("Conectado a: " + serial_port.portstr)
 
     while True:
@@ -71,6 +81,7 @@ def get_data_acquisition():
             break
     serial_port.close()  # cierre el puerto inmediatamente.
 
+
 def send2Zabbix(zx_server, x):
     """
     Receive soh_data array and send it to a ZX trigger item only  if ping ok
@@ -78,7 +89,7 @@ def send2Zabbix(zx_server, x):
     print(x)
     axis_x = x[0]
     try:
-        #hostname = "CAYA_FW_1"
+        # hostname = "CAYA_FW_1"
         try:
             run_param = tilt_utils.read_parameters(sys.argv[1])
         except Exception as e:
@@ -148,4 +159,6 @@ def main():
         if is_error:
             logging.info(f'Usage: python {sys.argv[0]} configuration_file.txt ')
             print(f'Usage: python {sys.argv[0]} CONFIGURATION_FILE.txt ')
+
+
 main()
