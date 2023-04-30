@@ -61,18 +61,18 @@ root            ERROR    Error in main(): can only concatenate str (not "NoneTyp
 2023-04-28 11:54:07,267 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000360", "chunk": 1}
 2023-04-28 11:59:31,264 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000594", "chunk": 1}
 2023-04-28 12:00:16,244 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
-2023-04-28 12:00:16,245 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:00:16,245 root            INFO     Error in send_to_zabbix. Error was:
 2023-04-28 12:00:40,231 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
-2023-04-28 12:00:40,231 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:00:40,231 root            INFO     Error in send_to_zabbix. Error was:
 2023-04-28 12:01:31,245 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
-2023-04-28 12:01:31,245 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:01:31,245 root            INFO     Error in send_to_zabbix. Error was:
 2023-04-28 12:01:42,254 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000645", "chunk": 1}
 2023-04-28 12:01:50,256 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000204", "chunk": 1}
 2023-04-28 12:05:18,227 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
-2023-04-28 12:05:18,227 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:05:18,227 root            INFO     Error in send_to_zabbix. Error was:
 2023-04-28 12:05:37,244 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000365", "chunk": 1}
 2023-04-28 12:05:58,234 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.100.25', 10051) timed out after10 seconds
-2023-04-28 12:05:58,234 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-28 12:05:58,234 root            INFO     Error in send_to_zabbix. Error was:
 2023-04-28 12:08:18,245 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000108", "chunk": 1}
 2023-04-28 12:24:34,252 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000311", "chunk": 1}
 2023-04-28 12:31:52,232 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000443", "chunk": 1}
@@ -95,5 +95,23 @@ root            ERROR    Error in main(): can only concatenate str (not "NoneTyp
 2023-04-30 14:28:50,869 root            ERROR    Error in main(): module 'serial' has no attribute 'EIGHBITS' 
 2023-04-30 14:29:28,904 root            ERROR    Error in main(): unexpected keyword arguments: {'baud_rate': 9600} 
 2023-04-30 14:31:35,779 pyzabbix.sender ERROR    Sending failed: Connection to ('192.168.1.115', 10051) timed out after10 seconds
-2023-04-30 14:31:35,779 root            INFO     Error in send2Zabbix. Error was: 
+2023-04-30 14:31:35,779 root            INFO     Error in send_to_zabbix. Error was:
 2023-04-30 14:32:09,806 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000379", "chunk": 1}
+2023-04-30 15:16:37,616 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000454", "chunk": 1}
+2023-04-30 15:21:40,191 root            ERROR    Error in main(): name 'get_data_acquisition' is not defined 
+2023-04-30 15:21:58,731 root            ERROR    Error in main(): name 'get_data_acquisition' is not defined 
+2023-04-30 17:59:26,622 root            ERROR    Error in main(): 'utf-8' codec can't decode byte 0x82 in position 0: invalid start byte 
+2023-04-30 17:59:52,663 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000572", "chunk": 1}
+2023-04-30 18:28:03,632 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000322", "chunk": 1}
+2023-04-30 18:30:06,661 root            INFO     Connected to: /dev/cu.usbserial-145230
+2023-04-30 18:30:06,667 root            ERROR    Error in main(): Attempting to use a port that is not open 
+2023-04-30 18:30:45,416 root            INFO     Connected to: /dev/cu.usbserial-145230
+2023-04-30 18:30:45,423 root            ERROR    Error in main(): Attempting to use a port that is not open 
+2023-04-30 18:31:44,891 root            INFO     Connected to: /dev/cu.usbserial-145230
+2023-04-30 18:31:44,895 root            ERROR    Error in main(): Attempting to use a port that is not open 
+2023-04-30 18:32:06,490 root            ERROR    No serial port found.
+2023-04-30 18:32:06,491 root            ERROR    Error in main(): object of type 'NoneType' has no len() 
+2023-04-30 18:32:20,639 root            INFO     Connected to: /dev/cu.usbserial-145240
+2023-04-30 18:32:20,645 root            ERROR    Error in main(): Attempting to use a port that is not open 
+2023-04-30 18:33:19,802 root            INFO     Connected to: /dev/cu.usbserial-145240
+2023-04-30 18:33:20,626 root            INFO     CAYA_FW_1, {"processed": 4, "failed": 0, "total": 4, "time": "0.000128", "chunk": 1}
