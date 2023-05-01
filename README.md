@@ -9,7 +9,7 @@
 )](https://github.com/rotoapanta/digital_tiltmeter_zabbix/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rotoapanta/digital_tiltmeter_zabbix
 )
-![GitHub last commit](https://img.shields.io/github/last-commit/rotoapanta/ESP32-Networking
+![GitHub last commit](https://img.shields.io/github/last-commit/rotoapanta/digital_tiltmeter_zabbix
 )
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/rotoapanta/prueba2/main/6a500cc65d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
