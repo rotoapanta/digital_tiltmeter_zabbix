@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 """
-__file__ = seria_port_pkg.py
+__file__ = serial_port_pkg.py
 __author__ = rotoapanta "Roberto Toapanta"
 __copyright__ = "Copyright 2021, BitTech"
 __credits__ = ["Roberto Toapanta, Giovanny Toapanta"]

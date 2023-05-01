@@ -22,7 +22,7 @@ from zabbix_pkg import *
 import os
 import sys
 import logging
-from seria_port_pkg import *
+from serial_port_pkg import *
 
 
 def main():
