@@ -5,9 +5,9 @@
 ##
 
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)
-[![GitHub issues](https://img.shields.io/github/issues/rotoapanta/ESP32-Networking
-)](https://github.com/rotoapanta/ESP32-Networking/issues)
-![GitHub repo size](https://img.shields.io/github/repo-size/rotoapanta/ESP32-Blinking-RGB-Led
+[![GitHub issues](https://img.shields.io/github/issues/rotoapanta/digital_tiltmeter_zabbix
+)](https://github.com/rotoapanta/digital_tiltmeter_zabbix/issues)
+![GitHub repo size](https://img.shields.io/github/repo-size/rotoapanta/digital_tiltmeter_zabbix
 )
 ![GitHub last commit](https://img.shields.io/github/last-commit/rotoapanta/ESP32-Networking
 )
