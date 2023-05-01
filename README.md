@@ -45,8 +45,8 @@ Let’s get started!
  
 ## Requirements
 
-  * [ESP32 - working on this board](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html)
-  * [MicroPython for ESP32](http://micropython.org/download#esp32)
+  * [Install py-zabbix 1.1.7](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html)
+  * [Install pyserial](http://micropython.org/download#esp32)
   * [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
   * ESP32-S2-Saola-1
   * USB 2.0 cable (Standard-A to Micro-B)
