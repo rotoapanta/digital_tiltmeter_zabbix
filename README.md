@@ -39,7 +39,7 @@
 
 ## Getting started with MicroPython on the ESP32
 
-Using MicroPython is a great way to get the most of your ESP32 board. And vice versa, the ESP32 chip is a great platform for using MicroPython. This tutorial will guide you through setting up MicroPython, getting a prompt, using WebREPL, connecting to the network and communicating with the Internet, using the hardware peripherals, and controlling some external components.
+The digital inclinometer is a high-precision instrument designed to measure very small changes in the horizontal plane. In the context of volcanoes, an inclinometer is used to measure very small changes in the horizontal plane of the terrain around the volcano. These changes can be indicative of volcanic activity, such as deformation of the terrain caused by inflation or deflation of the magma beneath the volcano. This tutorial will guide you to obtain data in Zabbix with the help of ..
 
 Let’s get started!
  
@@ -48,8 +48,9 @@ Let’s get started!
   * [Install py-zabbix 1.1.7](https://pypi.org/project/pyzabbix/)
   * [Install pyserial 3.5](https://pypi.org/project/pyserial/)
   * [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
-  * ESP32-S2-Saola-1
-  * USB 2.0 cable (Standard-A to Micro-B)
+  * Digital Tiltmeter Model D711-A.
+  * USB converter cable.
+  * Power adapter 12 VDC.
   * Computer running Thonny on Windows, Linux or macOS (in this case macOS is used)
 
 ## Description of Components
