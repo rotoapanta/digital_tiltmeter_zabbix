@@ -20,7 +20,7 @@
 # Contents
 
   * [Getting started](#getting-started)
-    * [Getting started with MicroPython on the ESP32](#getting-started-with-micropython-on-the-esp32)
+    * [Getting started with Tiltmeter and Zabbix](#getting-started-with-tiltmeter-and-zabbix)
     * [Requirements](#requirements)
     * [Description of Components](#description-of-components)
     * [Power Supply Options](#power-supply-options)
