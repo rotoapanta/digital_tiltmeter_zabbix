@@ -37,9 +37,9 @@
 
 # Getting started
 
-## Getting started with MicroPython on the ESP32
+## Getting started with Tiltmeter and Zabbix
 
-The digital inclinometer is a high-precision instrument designed to measure very small changes in the horizontal plane. In the context of volcanoes, an inclinometer is used to measure very small changes in the horizontal plane of the terrain around the volcano. These changes can be indicative of volcanic activity, such as deformation of the terrain caused by inflation or deflation of the magma beneath the volcano. This tutorial will guide you to obtain data in Zabbix with the help of ..
+The digital inclinometer is a high-precision instrument designed to measure very small changes in the horizontal plane. In the context of volcanoes, an inclinometer is used to measure very small changes in the horizontal plane of the terrain around the volcano. These changes can be indicative of volcanic activity, such as deformation of the terrain caused by inflation or deflation of magma beneath the volcano. This tutorial will guide you to obtain data from the Tiltmeter (tangential axis, radial axis, and temperature) to Zabbix.
 
 Let’s get started!
  
@@ -47,7 +47,6 @@ Let’s get started!
 
   * [Install py-zabbix 1.1.7](https://pypi.org/project/pyzabbix/)
   * [Install pyserial 3.5](https://pypi.org/project/pyserial/)
-  * [Datasheet ESP32-S2-WROOM-I](https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf)
   * Digital Tiltmeter Model D711-A.
   * USB converter cable.
   * Power adapter 12 VDC.
@@ -68,7 +67,7 @@ There are three mutually exclusive ways to provide power to the board:
 **_It is recommended to use the first option: Micro-USB Port._**
 
 ## Pin Layout
-![esp32-s2-saola1-pinout](https://user-images.githubusercontent.com/16738424/187049261-8ccb55c8-75af-4fb4-b2c2-04de95fb5af5.jpg)
+[![29986-15905531.jpg](https://i.postimg.cc/C58R1Dx6/29986-15905531.jpg)](https://postimg.cc/rR8VZDWS)
 
 # Instructions
 
