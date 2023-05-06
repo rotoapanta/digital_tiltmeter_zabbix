@@ -55,7 +55,7 @@ Let’s get started!
 
 ## Description of Components
 
-![esp32-s2-saola-1-v1 2](https://user-images.githubusercontent.com/16738424/187048221-2b4044f2-b21a-4bbe-9c9f-85ab6a8721bb.png)
+[![29986-15905531.jpg](https://i.postimg.cc/C58R1Dx6/29986-15905531.jpg)](https://postimg.cc/rR8VZDWS)
 
 ## Power Supply Options
 
@@ -68,7 +68,7 @@ There are three mutually exclusive ways to provide power to the board:
 **_It is recommended to use the first option: Micro-USB Port._**
 
 ## Pin Layout
-[![29986-15905531.jpg](https://i.postimg.cc/C58R1Dx6/29986-15905531.jpg)](https://postimg.cc/rR8VZDWS)
+[![Pinout-tiltmeter.png](https://i.postimg.cc/cL0jLmyk/Pinout-tiltmeter.png)](https://postimg.cc/N5CbNR0R)
 
 # Instructions
 
