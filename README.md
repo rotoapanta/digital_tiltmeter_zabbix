@@ -4,7 +4,7 @@
 
 ##
 
-![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)
+![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)
 [![GitHub issues](https://img.shields.io/github/issues/rotoapanta/digital_tiltmeter_zabbix
 )](https://github.com/rotoapanta/digital_tiltmeter_zabbix/issues)
 ![GitHub repo size](https://img.shields.io/github/repo-size/rotoapanta/digital_tiltmeter_zabbix
@@ -50,7 +50,7 @@ Let’s get started!
   * Power Supply Adapter 12 VDC.
   * Hyperterminal.
   * Computer running Anaconda on Windows, Linux or macOS (in this case macOS is used).
-  * Python 3.9
+  * Python 3.10 or later.
   * [Install py-zabbix 1.1.7](https://pypi.org/project/pyzabbix/)
   * [Install pyserial 3.5](https://pypi.org/project/pyserial/)
 
@@ -71,8 +71,9 @@ There is a way to provide power to the tiltmeter:
 
 # Instructions
 
-* Install Python, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
-* Create a envs
+* Install Anaconda, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
+
+* Create a new environment with python 3.10.
 
 * Or you can install using Tonny software, as follows:
 
