@@ -53,7 +53,7 @@ Let’s get started!
   * Computer running Thonny on Windows, Linux or macOS (in this case macOS is used)
   * 
 
-## Description of Components
+## Components Description
 
 [![29986-15905531.jpg](https://i.postimg.cc/C58R1Dx6/29986-15905531.jpg)](https://postimg.cc/rR8VZDWS)
 
@@ -62,8 +62,6 @@ Let’s get started!
 There are three mutually exclusive ways to provide power to the board:
 
   * Micro-USB port, default power supply
-  * 5V and GND pin headers
-  * 3V3 and GND pin headers
 
 **_It is recommended to use the first option: Micro-USB Port._**
 
@@ -86,17 +84,6 @@ There are three mutually exclusive ways to provide power to the board:
 
 ![tonny-plug-ins-3](https://user-images.githubusercontent.com/16738424/193679194-e8c67aca-759b-40c7-ab71-3dfb24780163.png)
 
-3. In the Thonny software, go to the menu **Run** and click on **Select Interpreter**.
-
-![select-intrepreter](https://user-images.githubusercontent.com/16738424/194108740-7b38804f-d192-42b2-84a6-60f98d3c3b5d.png)
-
-4. In the **Thonny options** window select the **Interpreter** menu and click on the link **Install or update firmware**.
-
-![install-firmware](https://user-images.githubusercontent.com/16738424/194110292-9ec545bf-ec1e-4ef1-a90a-c91ad9c50220.png)
-
-5. In the **ESP32 firmware install** window, select the port to which the ESP32 board is connected and select the firmware downloaded from the [website](https://micropython.org/download/GENERIC_S2/), according to the model used.
-
-![port-firmware](https://user-images.githubusercontent.com/16738424/194114813-780e2d14-9077-4158-8d51-9d53ddd7e30e.png)
 
 6. Finished uploading the firmware is ready to go!
 ![port-firmware-done](https://user-images.githubusercontent.com/16738424/194117896-ecffe4a5-b5f3-44dd-9f22-7ba7b48ac3dd.png)
@@ -159,7 +146,7 @@ For support, email robertocarlos.toapanta@gmail.com or join our Discord channel.
 
 More Info:
 ---------
-* [MicroPython for ESP32](http://micropython.org/download#esp32)
+* [Zabbix Sender](https://www.zabbix.com/documentation/4.0/en/manual/concepts/sender)
 * [MicroPython Tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started)
 * [NeoPixeles](https://learn.adafruit.com/esenciales-para-circuitpython/neopixeles-circuitpython)
 * [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
