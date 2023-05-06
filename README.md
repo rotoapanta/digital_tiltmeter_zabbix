@@ -48,9 +48,10 @@ Let’s get started!
   * [Install py-zabbix 1.1.7](https://pypi.org/project/pyzabbix/)
   * [Install pyserial 3.5](https://pypi.org/project/pyserial/)
   * Digital Tiltmeter Model D711-A.
-  * USB converter cable.
-  * Power adapter 12 VDC.
+  * USB to Serial converter cable.
+  * Power Supply Adapter 12 VDC.
   * Computer running Thonny on Windows, Linux or macOS (in this case macOS is used)
+  * 
 
 ## Description of Components
 
