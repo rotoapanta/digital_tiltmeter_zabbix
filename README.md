@@ -55,7 +55,7 @@ Let’s get started!
 
 ## Components Description
 
-[![29986-15905531.jpg](https://i.postimg.cc/C58R1Dx6/29986-15905531.jpg)](https://postimg.cc/rR8VZDWS)
+[![tiltmeter](https://i.postimg.cc/C58R1Dx6/29986-15905531.jpg)](https://postimg.cc/rR8VZDWS "Tiltmeter D711-A")
 
 ## Power Supply Options
 
