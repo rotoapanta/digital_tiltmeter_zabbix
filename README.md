@@ -45,13 +45,14 @@ Let’s get started!
  
 ## Requirements
 
-  * [Install py-zabbix 1.1.7](https://pypi.org/project/pyzabbix/)
-  * [Install pyserial 3.5](https://pypi.org/project/pyserial/)
   * Digital Tiltmeter Model D711-A.
   * USB to Serial converter cable.
   * Power Supply Adapter 12 VDC.
-  * Computer running Anaconda on Windows, Linux or macOS (in this case macOS is used)
-  * 
+  * Hyperterminal.
+  * Computer running Anaconda on Windows, Linux or macOS (in this case macOS is used).
+  * Python 3.9
+  * [Install py-zabbix 1.1.7](https://pypi.org/project/pyzabbix/)
+  * [Install pyserial 3.5](https://pypi.org/project/pyserial/)
 
 ## Components Description
 
@@ -59,11 +60,11 @@ Let’s get started!
 
 ## Power Supply Options
 
-There are three mutually exclusive ways to provide power to the board:
+There is a way to provide power to the tiltmeter:
 
-  * Micro-USB port, default power supply
+  * Connect the 12V DC adapter to the tiltmeter jack.
 
-**_It is recommended to use the first option: Micro-USB Port._**
+**_It is recommended to verify the polarity of the jack._**
 
 ## Pin Layout
 [![Pinout-tiltmeter.png](https://i.postimg.cc/cL0jLmyk/Pinout-tiltmeter.png)](https://postimg.cc/N5CbNR0R)
