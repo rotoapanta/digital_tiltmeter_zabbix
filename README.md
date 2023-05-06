@@ -50,7 +50,7 @@ Let’s get started!
   * Digital Tiltmeter Model D711-A.
   * USB to Serial converter cable.
   * Power Supply Adapter 12 VDC.
-  * Computer running Thonny on Windows, Linux or macOS (in this case macOS is used)
+  * Computer running Anaconda on Windows, Linux or macOS (in this case macOS is used)
   * 
 
 ## Components Description
@@ -147,9 +147,8 @@ For support, email robertocarlos.toapanta@gmail.com or join our Discord channel.
 More Info:
 ---------
 * [Zabbix Sender](https://www.zabbix.com/documentation/4.0/en/manual/concepts/sender)
-* [MicroPython Tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started)
+* [Zabbix Handy Tips: Collect and send custom metrics with Zabbix sender](https://www.youtube.com/watch?v=AWJgEHLOHe0)
 * [NeoPixeles](https://learn.adafruit.com/esenciales-para-circuitpython/neopixeles-circuitpython)
-* [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
