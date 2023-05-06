@@ -64,14 +64,15 @@ There is a way to provide power to the tiltmeter:
 
   * Connect the 12V DC adapter to the tiltmeter jack.
 
-**_It is recommended to verify the polarity of the jack._**
+**_It is recommended to verify the polarity of the jack (- ring and + center)._**
 
 ## Pin Layout
 [![Pinout-tiltmeter.png](https://i.postimg.cc/cL0jLmyk/Pinout-tiltmeter.png)](https://postimg.cc/N5CbNR0R)
 
 # Instructions
 
-* Install MicroPython on the ESP32, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
+* Install Python, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
+* Create a envs
 
 * Or you can install using Tonny software, as follows:
 
