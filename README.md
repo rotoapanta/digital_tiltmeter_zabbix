@@ -97,11 +97,6 @@ There is a way to provide power to the tiltmeter:
   ```
 6. Run  
 
-## Changelog
-
-* Revision: 1.1 - Code cleaned.
-* Revision: 1.0 - Initial commit
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your `wifi_credentials.py` file
@@ -109,6 +104,11 @@ To run this project, you will need to add the following environment variables to
 `ssid = 'YOUR_SSID'  # your network SSID (name)`
 
 `password = 'YOUR_SSID_PASSWORD' # your network password (use for WPA, or use as key for WEP)`
+
+## Changelog
+
+* Revision: 1.1 - Code cleaned.
+* Revision: 1.0 - Initial commit
 
 ## Running Tests
 
