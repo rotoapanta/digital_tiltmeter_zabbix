@@ -140,7 +140,8 @@ More Info:
 ---------
 * [Zabbix Sender](https://www.zabbix.com/documentation/4.0/en/manual/concepts/sender)
 * [Zabbix Handy Tips: Collect and send custom metrics with Zabbix sender](https://www.youtube.com/watch?v=AWJgEHLOHe0)
-* [NeoPixeles](https://learn.adafruit.com/esenciales-para-circuitpython/neopixeles-circuitpython)
+* [Official documentation for py-zabbix](https://py-zabbix.readthedocs.io/en/latest/)
+* [GitHub py-zabbix](https://github.com/adubkov/py-zabbix)
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
