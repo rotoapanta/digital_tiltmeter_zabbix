@@ -99,7 +99,7 @@ There is a way to provide power to the tiltmeter:
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your `configuration.ini` file
+To run this project, you will need to add the IP address of the Zabbix server to the `configuration.ini file.
 
 `[zabbix_server]`
 
