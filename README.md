@@ -33,6 +33,7 @@
   * [Support](#support)
   * [License](#license)
   * [Autors](#autors)
+  * [More Info](#more-info)
   * [Links](#links)
 
 # Getting started
@@ -145,8 +146,8 @@ For support, email robertocarlos.toapanta@gmail.com or join our Discord channel.
 ## Autors
 - [@rotoapanta](https://github.com/rotoapanta)
 
-More Info:
----------
+More Info
+
 * [Zabbix Sender](https://www.zabbix.com/documentation/4.0/en/manual/concepts/sender)
 * [Zabbix Handy Tips: Collect and send custom metrics with Zabbix sender](https://www.youtube.com/watch?v=AWJgEHLOHe0)
 * [Official documentation for py-zabbix](https://py-zabbix.readthedocs.io/en/latest/)
