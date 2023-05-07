@@ -71,35 +71,24 @@ There is a way to provide power to the tiltmeter:
 
 # Instructions
 
-* Install Anaconda, you can use [this tutorial](https://lemariva.com/blog/2017/10/micropython-getting-started);
+1. Install Anaconda.
 
-* Create a new environment with python 3.10.
+2. Create a new environment with python 3.10.
 
-* Or you can install using Tonny software, as follows:
-
-1. Open the Thonny software, then go to the menu bar and click on **Tools**, then click **Manager plug-ins**.
-
-![tonny-plug-ins-1](https://user-images.githubusercontent.com/16738424/193680097-2df312a8-6a18-45f4-b775-6c25d1d514ab.png)
-
-2. Then search for the **esptool** plug-ins and click install. In this case, the plug-ins are already installed.
-
-![tonny-plug-ins-2](https://user-images.githubusercontent.com/16738424/193679929-40adef10-f0d5-4b5e-a58a-1a5f99f80b8f.png)
-
-![tonny-plug-ins-3](https://user-images.githubusercontent.com/16738424/193679194-e8c67aca-759b-40c7-ab71-3dfb24780163.png)
-
-
-6. Finished uploading the firmware is ready to go!
-![port-firmware-done](https://user-images.githubusercontent.com/16738424/194117896-ecffe4a5-b5f3-44dd-9f22-7ba7b48ac3dd.png)
-
-* Create the files `network.py` and `wifi_credentials.py`
-
-* Modify the `wifi_credentials.py` file if you want to:
-  * The code line
-  ```python
-  ssid = 'YOUR_SSID'  # your network SSID (name)`
-
-  password = 'YOUR_SSID_PASSWORD' # your network password (use for WPA, or use as key for WEP)
+  ```conda
+conda create --name python=3.9
   ```
+
+3. Install pyserial library.
+```conda
+pip install pyserial
+```
+
+4. Install py-zabbix library.
+
+```conda
+pip install py-zabbix
+```
 
 ## Changelog
 
