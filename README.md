@@ -27,6 +27,7 @@
     * [Pin Layout](#pin-layout)
   * [Instructions](#instructions)
   * [Environment Variables](#environment-variables)
+  * [Change Log](#change-log)
   * [Running Tests](#running-tests)
   * [Usage/Examples](#usage-examples)
   * [Feedback](#feedback)
@@ -108,7 +109,7 @@ To run this project, you will need to add the IP address of the Zabbix server to
 
 `port=10051`
 
-## Changelog
+## Change Log
 
 * Revision: 1.1 - Code cleaned.
 * Revision: 1.0 - Initial commit
@@ -146,7 +147,7 @@ For support, email robertocarlos.toapanta@gmail.com or join our Discord channel.
 ## Autors
 - [@rotoapanta](https://github.com/rotoapanta)
 
-More Info
+## More Info
 
 * [Zabbix Sender](https://www.zabbix.com/documentation/4.0/en/manual/concepts/sender)
 * [Zabbix Handy Tips: Collect and send custom metrics with Zabbix sender](https://www.youtube.com/watch?v=AWJgEHLOHe0)
