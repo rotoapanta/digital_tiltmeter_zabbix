@@ -75,20 +75,27 @@ There is a way to provide power to the tiltmeter:
 
 2. Create a new environment with python 3.10.
 
-  ```conda
-conda create --name python=3.9
+  ```bash
+  conda create --name python=3.9
   ```
 
 3. Install pyserial library.
-```conda
-pip install pyserial
-```
+
+  ```bash
+  pip install pyserial
+  ```
 
 4. Install py-zabbix library.
 
-```conda
-pip install py-zabbix
-```
+  ```bash
+  pip install py-zabbix
+  ```
+5. Check tiltmeter data frame with a hyperterminal.
+
+  ```bash
+  +398.1, -12.4, 24, N234
+  ```
+6. Run  
 
 ## Changelog
 
