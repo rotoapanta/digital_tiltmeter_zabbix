@@ -22,7 +22,7 @@
   * [Getting started](#getting-started)
     * [Getting started with Tiltmeter and Zabbix](#getting-started-with-tiltmeter-and-zabbix)
     * [Requirements](#requirements)
-    * [Description of Components](#description-of-components)
+    * [Components Description](#components-description)
     * [Power Supply Options](#power-supply-options)
     * [Pin Layout](#pin-layout)
   * [Instructions](#instructions)
