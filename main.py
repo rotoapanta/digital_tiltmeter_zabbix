@@ -31,7 +31,7 @@ def main():
     logging.basicConfig(
         format='%(asctime)-5s %(name)-15s %(levelname)-8s %(message)s',
         level=logging.INFO,  # Nivel de los eventos que se registran en el logger
-        filename=os.path.join(exec_dir, "inclino_logs_info5.log"),  # Fichero en el que se escriben los logs
+        filename=os.path.join(exec_dir, "tilt_zabbix.log"),  # Fichero en el que se escriben los logs
         filemode="a"  # a ("append"), en cada escritura, si el archivo de logs ya existe,
         # se abre y añaden nuevas lineas.
     )
