@@ -5,9 +5,9 @@
 __file__ = zabbix_pkg.py
 __author__ = rotoapanta "Roberto Toapanta"
 __copyright__ = "Copyright 2023, IG-EPN"
-__credits__ = ["Roberto Toapanta, Giovanny Toapanta"]
+__credits__ = ["Roberto Toapanta"]
 __license__ = "GPL"
-__version__ = "1.0.1"
+__version__ = "1.0.0"
 __maintainer__ = "Roberto Toapanta"
 __email__ = "robertocarlos.toapanta@gmail.com"
 __status__ = "Production"
