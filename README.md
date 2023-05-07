@@ -95,7 +95,7 @@ There is a way to provide power to the tiltmeter:
   ```bash
   +398.1, -12.4, 24, N234
   ```
-6. Run  
+6. Insert into the server's crontab to run periodically.
 
 ## Environment Variables
 
