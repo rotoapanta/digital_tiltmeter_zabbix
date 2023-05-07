@@ -99,7 +99,7 @@ There is a way to provide power to the tiltmeter:
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your `wifi_credentials.py` file
+To run this project, you will need to add the following environment variables to your `configuration.ini` file
 
 `[zabbix_server]`
 
