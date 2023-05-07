@@ -140,7 +140,7 @@ For support, email robertocarlos.toapanta@gmail.com or join our Discord channel.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPL v2](https://www.gnu.org/licenses/gpl-2.0)
 
 ## Autors
 - [@rotoapanta](https://github.com/rotoapanta)
