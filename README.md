@@ -59,7 +59,7 @@ Let’s get started!
 ## Components Description
 
 [![tiltmeter](https://i.postimg.cc/C58R1Dx6/29986-15905531.jpg)](https://postimg.cc/rR8VZDWS "Tiltmeter D711-A")
-
+[![tiltmeter2](tiltmeter.jpeg)
 ## Power Supply Options
 
 There is a way to provide power to the tiltmeter:
