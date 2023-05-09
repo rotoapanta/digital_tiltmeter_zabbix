@@ -57,9 +57,7 @@ Let’s get started!
   * [Install pyserial 3.5](https://pypi.org/project/pyserial/)
 
 ## Components Description
-
-[![tiltmeter](https://i.postimg.cc/C58R1Dx6/29986-15905531.jpg)](https://postimg.cc/rR8VZDWS "Tiltmeter D711-A")
-![tiltmeter](tiltmeter.jpeg)
+![tiltmeter](https://github.com/rotoapanta/digital_tiltmeter_zabbix/assets/16738424/4b84db25-066b-43fc-a19f-c36d25a4a728)
 ## Power Supply Options
 
 There is a way to provide power to the tiltmeter:
