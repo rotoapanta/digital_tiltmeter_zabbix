@@ -58,6 +58,7 @@ Let’s get started!
 
 ## Components Description
 ![tiltmeter](https://github.com/rotoapanta/digital_tiltmeter_zabbix/assets/16738424/4b84db25-066b-43fc-a19f-c36d25a4a728)
+
 ## Power Supply Options
 
 There is a way to provide power to the tiltmeter:
@@ -67,7 +68,8 @@ There is a way to provide power to the tiltmeter:
 **_It is recommended to verify the polarity of the jack (- ring and + center)._**
 
 ## Pin Layout
-[![Pinout-tiltmeter.png](https://i.postimg.cc/cL0jLmyk/Pinout-tiltmeter.png)](https://postimg.cc/N5CbNR0R)
+![Pinout-tiltmeter.png](https://github.com/rotoapanta/digital_tiltmeter_zabbix/assets/16738424/a8703cc0-d72a-41af-a456-22ba8f73b432)
+
 
 # Instructions
 
