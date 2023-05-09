@@ -78,7 +78,7 @@ There is a way to provide power to the tiltmeter:
 2. Create a new environment with python 3.10.
 
   ```bash
-  conda create --name python=3.9
+  conda create --name tiltmeter_zabbix_env python=3.10
   ```
 
 3. Install pyserial library.
