@@ -98,7 +98,17 @@ There is a way to provide power to the tiltmeter:
   +398.1, -12.4, 24, N234
   ```
 6. Insert into the server's crontab to run periodically.
-
+   ```bash
+   chmod +x run_tiltmeter_zabbix.sh
+   ```
+   
+   ```bash
+   crontab -e
+   ```
+   
+   ```bash
+   * * * * * /home/rotoapanta/script/run_tiltmeter_zabbix.sh
+   ```
 ## Environment Variables
 
 To run this project, you will need to add the IP address of the Zabbix server to the `configuration.ini file.
