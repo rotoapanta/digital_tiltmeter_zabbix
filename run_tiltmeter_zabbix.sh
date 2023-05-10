@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Define variables
-CONDA_PATH="/home/seiscomp/anaconda3/bin"
-CONDA_ENV="soh_zabbix"
-SCRIPT_PATH="/home/seiscomp/eclipse-workspace/soh_zabbix"
-PYTHON_SCRIPT="soh_reftek.py"
+CONDA_PATH="/home/rotoapanta/anaconda3/bin"
+CONDA_ENV="tiltmeter_zabbix_env"
+SCRIPT_PATH="/home/rotoapanta/script/digital_tiltmeter_zabbix"
+PYTHON_SCRIPT="main.py"
 CONFIG_FILE="configuration.txt"
 
 # Carga el entorno de Conda dentro de la shell de bash
@@ -18,4 +18,3 @@ cd ${SCRIPT_PATH}
 
 # Ejecuta el script Python con el archivo de configuración y redirige la salida estándar a la salida de error
 python ./${PYTHON_SCRIPT} ./${CONFIG_FILE} >&2
-
