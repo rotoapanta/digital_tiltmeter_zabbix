@@ -77,26 +77,26 @@ There is a way to provide power to the tiltmeter:
 
 2. Create a new environment with python 3.10.
 
-  ```bash
-  conda create --name tiltmeter_zabbix_env python=3.10
-  ```
+   ```bash
+   conda create --name tiltmeter_zabbix_env python=3.10
+   ```
 
 3. Install pyserial library.
 
-  ```bash
-  pip install pyserial
-  ```
+   ```bash
+   pip install pyserial
+   ```
 
 4. Install py-zabbix library.
 
-  ```bash
-  pip install py-zabbix
-  ```
+   ```bash
+   pip install py-zabbix
+   ```
 5. Check tiltmeter data frame with a hyperterminal.
 
-  ```bash
-  +398.1, -12.4, 24, N234
-  ```
+   ```bash
+   +398.1, -12.4, 24, N234
+   ```
 6. Insert into the server's crontab to run periodically.
    ```bash
    chmod +x run_tiltmeter_zabbix.sh
