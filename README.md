@@ -95,7 +95,7 @@ There is a way to provide power to the tiltmeter:
 5. Check tiltmeter data frame with a hyperterminal.
 
    ```bash
-   +398.1, -12.4, 24, N234
+   $-9162.82, 9162.82,23.88,N7624
    ```
 6. Insert into the server's crontab to run periodically.
    ```bash
